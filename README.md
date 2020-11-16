@@ -1,1 +1,1 @@
-# moehzi
+[![Moehzi's github stats](https://github-readme-stats.vercel.app/api?username=moehzi)](https://github.com/moehzi/github-readme-stats)
